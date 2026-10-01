@@ -6,7 +6,7 @@ notes you own, a calendar, and a 3D view of everything you know.
 
 ## Install
 
-1. Download **`Valkyrie-Setup.exe`** from the [latest release](https://github.com/jettlee350-droid/valkyrie/releases/latest).
+1. Download **`Valkyrie-Setup.exe`** from the [latest release](https://github.com/System-Valkyrie/valkyrie/releases/latest).
 2. Double-click it. If Windows shows "Windows protected your PC", click **More info**, then **Run anyway**
    (the app isn't code-signed yet).
 3. Press **Install**. No admin rights, Python or anything else needed.
